@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp.Arghh
+﻿namespace ConsoleApp.NameDeclaration
 {
     internal class Program
     {
@@ -26,7 +26,7 @@
             Console.WriteLine($"My retirementAge is {retirementAge}");
 
             bool isRetired = false;
-            Console.WriteLine("Is th fucker retired " + isRetired);
+            Console.WriteLine("Is this fella retired " + isRetired);
         }
     }
 }
