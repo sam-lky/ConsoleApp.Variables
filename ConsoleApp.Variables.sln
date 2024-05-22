@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.restart", "ConsoleApp.restart\ConsoleApp.restart.csproj", "{A56FED9F-351F-41FE-8528-CD94184BB588}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.restart", "ConsoleApp.restart\ConsoleApp.restart.csproj", "{A56FED9F-351F-41FE-8528-CD94184BB588}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Arghh", "ConsoleApp.Arghh\ConsoleApp.Arghh.csproj", "{0E2A2685-2717-4BCE-9B09-B47430606052}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInputDemo", "UserInputDemo\UserInputDemo.csproj", "{D770C1A2-1F1B-4B0F-AFC5-9C34056FF7A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserInputDemo", "UserInputDemo\UserInputDemo.csproj", "{D770C1A2-1F1B-4B0F-AFC5-9C34056FF7A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{A56FED9F-351F-41FE-8528-CD94184BB588}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A56FED9F-351F-41FE-8528-CD94184BB588}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A56FED9F-351F-41FE-8528-CD94184BB588}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0E2A2685-2717-4BCE-9B09-B47430606052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E2A2685-2717-4BCE-9B09-B47430606052}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E2A2685-2717-4BCE-9B09-B47430606052}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E2A2685-2717-4BCE-9B09-B47430606052}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D770C1A2-1F1B-4B0F-AFC5-9C34056FF7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D770C1A2-1F1B-4B0F-AFC5-9C34056FF7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D770C1A2-1F1B-4B0F-AFC5-9C34056FF7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
